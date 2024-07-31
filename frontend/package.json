@@ -12,6 +12,7 @@
     "tailwatch": "npx tailwindcss -i ./src/input.css -o ./src/css/output.css --watch"
   },
   "dependencies": {
+    "@phosphor-icons/react": "^2.1.7",
     "axios": "^1.7.2",
     "date-fns": "^3.6.0",
     "react": "^18.3.1",
